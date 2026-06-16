@@ -28,6 +28,7 @@ The software is built with clean OOP principles and includes the following main 
 - `Report`: A utility class for generating output.
 - `Main`: Entry point for running the simulation.
 - `TaskSpecReader`: Reads task specs from an input file.
+![UML Diagram](UML%20Diagram.jpg)
 
 ## Reusability & Efficiency
 
