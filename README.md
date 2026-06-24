@@ -33,7 +33,7 @@ The software is built with clean OOP principles and includes the following main 
 ## Reusability & Efficiency
 
 - Easily extendable to support more priority levels.
-- Utilizes `PriorityQueue` for efficient task management with O(log N) operations.
+- Utilizes `PriorityQueue` for efficient task management with O(log N) operations.     
 
 ## How to Run
 
